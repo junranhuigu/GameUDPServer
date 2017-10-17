@@ -1,0 +1,5 @@
+<Config targetProject="ARPG2_Battle">
+	<!-- 错误号 -->
+	<javaModel csvfile="Failmsg.csv" targetPackage="com.db.gamedata.csv.failmsg.entity"
+		modelName="FailMsgData" overwrite="0" />
+</Config>
